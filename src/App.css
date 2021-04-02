@@ -1,0 +1,56 @@
+.header {
+  font-size: 24px;
+  padding: 10px 20px;
+}
+.description {
+  padding: 10px 20px;
+}
+.bold {
+  font-weight: bold;
+}
+.instructions {
+  padding: 10px 20px;
+  font-weight: lighter;
+}
+
+.hours, .contact {
+  padding: 20px;
+  display: inline-block;
+}
+
+.hours-label, .contact-label {
+  font-size: 20px;
+}
+
+.hours-times, .hours-addendum, .contact-info {
+  font-weight: lighter;
+}
+
+.hours-addendum {
+  font-size: 12px;
+  font-style: italic;
+}
+
+.bg-primary {
+  background-color: #003f87 !important;
+}
+
+.nav-link {  
+  display: inline-block !important;
+}
+
+.nav-right {
+  position: absolute;
+  right: 10px;  
+  font-size: 12px;
+}
+
+.navbar {  
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.card-deck {  
+    margin-right: auto !important;
+    margin-left: auto !important;
+}

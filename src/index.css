@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Muli:200,300,400");
+
+html {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-content: center;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #eeeeee;
+}
+
+body {
+  margin: 0;
+  padding-top: 80px;
+  font-family: "Muli", "Fira Sans", "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Droid Sans", "Helvetica Neue",
+    sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  max-width: 1200px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
